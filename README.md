@@ -6,7 +6,7 @@ attack.py <------- AUI.py , lib.py
 #### The core code file , which is the imported tool library
 lib.py
 #### Graphical interface Template code , which is imported for creating special UI
-IDB.py ----------- AUI.py
+UI.py ----------- AUI.py ------------- AEUI.py
 
 ## Imported open-sourcce library
 bitstring==3.1.9
